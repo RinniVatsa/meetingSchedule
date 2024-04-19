@@ -3,7 +3,7 @@ import DateTimePicker from './DateTimePicker';
 import MeetingForm from './MeetingForm';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import logo from './logo.png'; // Import your logo image
+import logo from './images/logo.png'; // Import your logo image
 
 function App() {
     const [selectedDateTime, setSelectedDateTime] = useState(null);

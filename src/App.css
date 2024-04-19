@@ -6,7 +6,7 @@
                 .backgroundImage {
                     opacity: 0.8;
                     margin: 10px;
-                    background-image: url('/Users/apple/Desktop/meetingschedule/src/avel-chuklanov-9OWS4lT5iqQ-unsplash.jpg');
+                    background-image: url('./images/avel-chuklanov-9OWS4lT5iqQ-unsplash.jpg');
                     background-size: cover;
                     min-height: 100vh;
                 }
@@ -28,7 +28,7 @@
                 }
                 
                 .header {
-                    background-image: url('/Users/apple/Desktop/meetingschedule/avel-chuklanov-9OWS4lT5iqQ-unsplash.jpg');
+                    background-image: url('./images/avel-chuklanov-9OWS4lT5iqQ-unsplash.jpg');
                     display: flex;
                     align-items: center;
                     text-decoration: center;
