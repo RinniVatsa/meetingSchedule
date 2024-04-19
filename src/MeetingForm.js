@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import './App.css'
+import "./App.css";
 import { Container, Row, Col, Button, Modal, Form } from "react-bootstrap";
 
 function MeetingForm({ onSubmit }) {
@@ -84,7 +84,7 @@ function MeetingForm({ onSubmit }) {
                 >
             ))
         } { " " } <
-        /div> <
+        /div>{" "} <
     div className = "App" >
         <
         p > Select Meeting Categories: < /p>{" "} <
@@ -104,7 +104,7 @@ function MeetingForm({ onSubmit }) {
     />
     Specific Topic(Details) { " " } <
         /label>{" "} < /
-    div > <
+    div > { " " } <
         p > Please, share anything that will help prepare
     for our meeting < /p>{" "} <
     textarea name = "description"
